@@ -2,6 +2,10 @@ React app for [itsthedemocratsfault.com](itsthedemocratsfault.com).
 
 # Local development
 
+## Prerequisites
+
+Install nodejs
+
 1. `npm install`
 2. `npm run start`
 3. Browser should open up with the app. Changing any of the code will automatically refresh the page.
