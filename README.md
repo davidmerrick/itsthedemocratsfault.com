@@ -3,8 +3,8 @@ React app for [itsthedemocratsfault.com](itsthedemocratsfault.com).
 # Local development
 
 1. `npm install`
-2. `node app.js`
-3. Point your browser at `http://localhost:3000`.
+2. `npm run start`
+3. Browser should open up with the app. Changing any of the code will automatically refresh the page.
 
 # Reference
 
